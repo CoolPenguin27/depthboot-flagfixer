@@ -1,1 +1,1 @@
-# depthboot-flagfixer
+# fast flags
